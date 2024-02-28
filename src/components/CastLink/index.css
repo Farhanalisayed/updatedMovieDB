@@ -1,0 +1,8 @@
+li {
+  display: flex;
+  flex-direction: column;
+}
+span {
+  font-size: 10px;
+  color: silver;
+}
